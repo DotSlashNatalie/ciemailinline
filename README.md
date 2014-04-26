@@ -1,4 +1,4 @@
-ciemailinlie
+ciemailinline
 ============
 
 Codeigniter email class with inline attachments
